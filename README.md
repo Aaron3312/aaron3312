@@ -28,7 +28,7 @@ Software Engineering Student | Networking & Cybersecurity Enthusiast
 
 Tecnológico de Monterrey
 
-https://www.aaronprojects.xyz
+https://www.aaronhernandez.me
 
 [Curriculum2.2 (4) (2).pdf](https://github.com/Aaron3312/aaron3312/files/14943976/Curriculum2.2.4.2.pdf)
 
