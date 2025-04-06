@@ -46,6 +46,12 @@ me.say_hello()
 ### [BakeryPOS](https://github.com/your-link) - Smart Point-of-Sale System
 **Technologies:** JavaScript, Firebase, IndexedDB, Python, Thermal Printing
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/posPc.png" alt="BakeryPOS Screenshot 1" width="280">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/posPc2.png" alt="BakeryPOS Screenshot 2" width="280">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/posPc3.png" alt="BakeryPOS Screenshot 3" width="280">
+</div>
+
 - Built a comprehensive point-of-sale system with offline functionality via IndexedDB (99.9% uptime)
 - Engineered a real-time order management system using Firebase, reducing processing time by 65%
 - Implemented Python-based thermal printer integration for automatic receipt generation
