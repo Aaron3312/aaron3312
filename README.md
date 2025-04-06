@@ -115,13 +115,9 @@ me.say_hello()
 **Technologies:** Next.js, React, TailwindCSS, Responsive Design
 
 <div align="center">
-  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/landingSoloEva.png" alt="Solo Para Eva Landing Page" width="800">
-</div>
-<div align="center">
-  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/ProductosSoloEva.png" alt="Solo Para Eva Products Page" width="800">
-</div>
-<div align="center">
-  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/NosotrosSoloEva.png" alt="Solo Para Eva About Us Page" width="800">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/landingSoloEva.png" alt="Solo Para Eva Landing Page" width="260">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/ProductosSoloEva.png" alt="Solo Para Eva Products Page" width="260">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/NosotrosSoloEva.png" alt="Solo Para Eva About Us Page" width="260">
 </div>
 
 - ✅ Developed a complete e-commerce showcase for artisanal natural body care products
