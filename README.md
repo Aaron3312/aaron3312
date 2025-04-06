@@ -60,9 +60,9 @@ me.say_hello()
 **Technologies:** Node.js, Express, PostgreSQL, OpenAI API, Notion API, NGINX, GCP, AWS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/cronosPortaitHorizontal.png" alt="Cronos Portrait" width="400">
-  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage1.png" alt="Cronos Page 1" width="400">
-  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage2.png" alt="Cronos Page 2" width="400">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage1.png" alt="Cronos Project Screenshot 1" width="400">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage2.png" alt="Cronos Project Screenshot 2" width="400">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/cronosPortaitHorizontal.png" alt="Cronos Project Horizontal View" width="800">
 </div>
 
 - Developed a platform that transforms project descriptions into actionable task lists using AI
