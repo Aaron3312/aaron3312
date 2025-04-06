@@ -31,7 +31,7 @@ me.say_hello()
 
 ## 🚀 Featured Projects
 
-### [SupplyStream](https://github.com/your-link) - AI-Powered Inventory Management
+### [SupplyStream](https://github.com/Aaron3312/SupplyStreamR) - AI-Powered Inventory Management
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/master/22.jpg" alt="SupplyStream Screenshot" width="600">
 </div>
@@ -56,7 +56,7 @@ me.say_hello()
 - Engineered a real-time order management system using Firebase, reducing processing time by 65%
 - Implemented Python-based thermal printer integration for automatic receipt generation
 
-### [Cronos Project](https://github.com/your-link) - AI-Powered Project Management
+### [Cronos Project](https://github.com/Aaron3312/CronosProyect1) - AI-Powered Project Management
 **Technologies:** Node.js, Express, PostgreSQL, OpenAI API, Notion API, NGINX, GCP, AWS
 
 <div align="center">
@@ -75,6 +75,20 @@ me.say_hello()
 - Engineered a warehouse simulation with autonomous robots coordinating in complex environments
 - Implemented real-time computer vision using YOLOv5 with UDP streaming (40% faster than previous systems)
 - Designed intelligent navigation using NavMesh for dynamic obstacle avoidance and path optimization
+
+### [Security Multi-Agent System](https://github.com/Aaron3312/ProyectoDronUnity) - Prison Security Simulation
+**Technologies:** Unity, Python, AI, Computer Vision, Autonomous Agents
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/Dron.png" alt="Autonomous Drone" width="280">
+  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityCams.png" alt="Security Cameras" width="280">
+  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityGuard.png" alt="Security Personnel" width="280">
+</div>
+
+- Developed a multi-agent simulation system modeling interactions between autonomous drones, security cameras, and security personnel in a prison environment
+- Implemented an autonomous drone that performs aerial patrols and detects suspicious activities using computer vision
+- Created an integrated security system where fixed cameras and personnel collaborate in real-time to respond to detected threats
+- Engineered by Team Warlocks at Tecnológico de Monterrey
 
 ## 🛠️ Technical Skills
 
