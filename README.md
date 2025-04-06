@@ -98,10 +98,10 @@ me.say_hello()
 ### 🚨 Security Multi-Agent System - Prison Security Simulation
 **Technologies:** Unity, Python, AI, Computer Vision, Autonomous Agents
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/Dron.png" alt="Autonomous Drone" width="280">
-  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityCams.png" alt="Security Cameras" width="280">
-  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityGuard.png" alt="Security Personnel" width="280">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
+  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/Dron.png" alt="Autonomous Drone" width="260" height="200" style="object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityCams.png" alt="Security Cameras" width="260" height="200" style="object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityGuard.png" alt="Security Personnel" width="260" height="200" style="object-fit: cover;">
 </div>
 
 - ✅ Developed a multi-agent simulation system modeling interactions between autonomous drones, security cameras, and security personnel
@@ -114,10 +114,10 @@ me.say_hello()
 ### 🧴 Solo Para Eva - Natural Body Care Products Showcase
 **Technologies:** Next.js, React, TailwindCSS, Responsive Design
 
-<div align="center">
-  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/landingSoloEva.png" alt="Solo Para Eva Landing Page" width="260">
-  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/ProductosSoloEva.png" alt="Solo Para Eva Products Page" width="260">
-  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/NosotrosSoloEva.png" alt="Solo Para Eva About Us Page" width="260">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/landingSoloEva.png" alt="Solo Para Eva Landing Page" width="280" height="200" style="object-fit: cover;">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/ProductosSoloEva.png" alt="Solo Para Eva Products Page" width="280" height="200" style="object-fit: cover;">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/NosotrosSoloEva.png" alt="Solo Para Eva About Us Page" width="280" height="200" style="object-fit: cover;">
 </div>
 
 - ✅ Developed a complete e-commerce showcase for artisanal natural body care products
