@@ -44,6 +44,19 @@ me.say_hello()
 - Engineered a real-time order management system using Firebase, reducing processing time by 65%
 - Implemented Python-based thermal printer integration for automatic receipt generation
 
+### [Cuevana by Aaron](https://aaron3312.github.io/web2/) - Modern Movie & Series Platform
+**Technologies:** React.js, Vite, TMDB API, CSS/SCSS, Cypress, GitHub Actions
+
+<div align="center">
+  <img src="https://aaron3312.github.io/web2/image.png" alt="Cuevana Platform Screenshot" width="800">
+</div>
+
+- Developed a comprehensive movie and series exploration platform with data from The Movie Database API
+- Implemented advanced search functionality and personalized recommendation systems
+- Created a responsive interface with detailed views for titles including synopsis, cast, and trailers
+- Built an integrated rating and review system for enhanced user engagement
+- Configured CI/CD pipeline with GitHub Actions for automated testing and deployment
+
 ### [Cronos Project](https://github.com/Aaron3312/CronosProyect1) - AI-Powered Project Management
 **Technologies:** Node.js, Express, PostgreSQL, OpenAI API, Notion API, NGINX, GCP, AWS
 
