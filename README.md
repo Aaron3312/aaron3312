@@ -59,6 +59,15 @@ me.say_hello()
 ### [Cronos Project](https://github.com/your-link) - AI-Powered Project Management
 **Technologies:** Node.js, Express, PostgreSQL, OpenAI API, Notion API, NGINX, GCP, AWS
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage1.png" alt="Cronos Page 1" width="400">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage2.png" alt="Cronos Page 2" width="400">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage3.png" alt="Cronos Page 3" width="400">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/cronosPortaitHorizontal.png" alt="Cronos Portrait" width="400">
+</div>
+
 - Developed a platform that transforms project descriptions into actionable task lists using AI
 - Reduced project setup time by 60% across 5 teams with intelligent task organization
 - Created an interactive calendar interface that reduced missed deadlines by 30%
