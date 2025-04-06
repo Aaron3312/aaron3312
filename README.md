@@ -64,7 +64,7 @@ me.say_hello()
   <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage2.png" alt="Cronos Page 2" width="400">
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage3.png" alt="Cronos Page 3" width="400">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/image.png" alt="Cronos Page 3" width="400">
   <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/cronosPortaitHorizontal.png" alt="Cronos Portrait" width="400">
 </div>
 
