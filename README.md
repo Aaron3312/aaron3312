@@ -114,9 +114,9 @@ me.say_hello()
 ### 🧴 Solo Para Eva - Natural Body Care Products Showcase
 **Technologies:** Next.js, React, TailwindCSS, Responsive Design
 <div align="center">
-  <img src="https://placeholder-image-url-for-soloparaeva1.png" alt="Solo Para Eva Website Screenshot 1" width="280">
-  <img src="https://placeholder-image-url-for-soloparaeva2.png" alt="Solo Para Eva Website Screenshot 2" width="280">
-  <img src="https://placeholder-image-url-for-soloparaeva3.png" alt="Solo Para Eva Website Screenshot 3" width="280">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/landingSoloEva.png" alt="Solo Para Eva Landing Page" width="280">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/ProductosSoloEva.png" alt="Solo Para Eva Products Page" width="280">
+  <img src="https://github.com/Aaron3312/tienda-limpieza-corporal/raw/master/NosotrosSoloEva.png" alt="Solo Para Eva About Us Page" width="280">
 </div>
 
 - ✅ Developed a complete e-commerce showcase for artisanal natural body care products
