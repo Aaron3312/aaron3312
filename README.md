@@ -111,6 +111,22 @@ me.say_hello()
 
 ---
 
+### 🧴 Solo Para Eva - Natural Body Care Products Showcase
+**Technologies:** Next.js, React, TailwindCSS, Responsive Design
+<div align="center">
+  <img src="https://placeholder-image-url-for-soloparaeva1.png" alt="Solo Para Eva Website Screenshot 1" width="280">
+  <img src="https://placeholder-image-url-for-soloparaeva2.png" alt="Solo Para Eva Website Screenshot 2" width="280">
+  <img src="https://placeholder-image-url-for-soloparaeva3.png" alt="Solo Para Eva Website Screenshot 3" width="280">
+</div>
+
+- ✅ Developed a complete e-commerce showcase for artisanal natural body care products
+- ✅ Implemented responsive design with elegant product display and categorization
+- ✅ Created an intuitive interface for product exploration with detailed views for each item
+- ✅ Integrated customer testimonials and product filtering capabilities
+- ✅ Built as part of the "Servicio Becario" program showcasing comprehensive front-end development skills
+
+---
+
 ### 📦 SupplyStream - AI-Powered Inventory Management
 **Technologies:** React Native, Firebase, TensorFlow Lite, Machine Learning
 
