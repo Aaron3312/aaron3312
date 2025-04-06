@@ -48,7 +48,7 @@ me.say_hello()
 **Technologies:** React.js, Vite, TMDB API, CSS/SCSS, Cypress, GitHub Actions
 
 <div align="center">
-  <img src="https://aaron3312.github.io/web2/image.png" alt="Cuevana Platform Screenshot" width="800">
+  <img src="https://github.com/Aaron3312/web2/blob/master/image.png" alt="Cuevana Platform Screenshot" width="800">
 </div>
 
 - Developed a comprehensive movie and series exploration platform with data from The Movie Database API
