@@ -1,8 +1,6 @@
 # Aaron Hernández Jiménez
 <!-- Header Banner - you can replace this with a custom banner image -->
 <div align="center">
-  <img src="https://photos.app.goo.gl/WzX3u7GpaBB6Lvag9" alt="Software Engineer | Full Stack Developer | Cloud Enthusiast" width="800" height="200" style="display: none;">
-  
   ## Software Engineer | Full Stack Developer | Cloud Solutions
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaron3312)
