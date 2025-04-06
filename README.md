@@ -1,7 +1,7 @@
 # Aaron Hernández Jiménez
 <!-- Header Banner - you can replace this with a custom banner image -->
 <div align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Software Engineer | Full Stack Developer | Cloud Enthusiast" width="800" height="200" style="display: none;">
+  <img src="https://photos.app.goo.gl/WzX3u7GpaBB6Lvag9" alt="Software Engineer | Full Stack Developer | Cloud Enthusiast" width="800" height="200" style="display: none;">
   
   ## Software Engineer | Full Stack Developer | Cloud Solutions
   
