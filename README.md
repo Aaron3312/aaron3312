@@ -72,6 +72,12 @@ me.say_hello()
 ### [Warehouse MultiAgent System](https://github.com/your-link) - Autonomous Robotics Simulation
 **Technologies:** Unity, Python, YOLOv5, UDP, NavMesh
 
+<div align="center">
+  <img src="https://github.com/Aaron3312/ProyectoSkeletons/blob/main/images/robots.png" alt="Autonomous Robots" width="280">
+  <img src="https://github.com/Aaron3312/ProyectoSkeletons/blob/main/images/metricas.png" alt="Performance Metrics" width="280">
+  <img src="https://github.com/Aaron3312/ProyectoSkeletons/blob/main/images/Navmesh.png" alt="Navigation Mesh" width="280">
+</div>
+
 - Engineered a warehouse simulation with autonomous robots coordinating in complex environments
 - Implemented real-time computer vision using YOLOv5 with UDP streaming (40% faster than previous systems)
 - Designed intelligent navigation using NavMesh for dynamic obstacle avoidance and path optimization
