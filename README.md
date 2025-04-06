@@ -33,7 +33,7 @@ me.say_hello()
 
 ### [SupplyStream](https://github.com/your-link) - AI-Powered Inventory Management
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/Screenshot_2024-09-18-21-16-44-370_host.exp.exponent.jpg" alt="SupplyStream Screenshot" width="600" style="display: none;">
+  <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/22.jpg" alt="SupplyStream Screenshot" width="600" style="display: none;">
 </div>
 
 **Technologies:** React Native, Firebase, TensorFlow Lite, Machine Learning
