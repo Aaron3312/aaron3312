@@ -31,18 +31,6 @@ me.say_hello()
 
 ## 🚀 Featured Projects
 
-### [SupplyStream](https://github.com/Aaron3312/SupplyStreamR) - AI-Powered Inventory Management
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/master/22.jpg" alt="SupplyStream Screenshot" width="200">
-</div>
-
-**Technologies:** React Native, Firebase, TensorFlow Lite, Machine Learning
-
-- Developed an AI-powered inventory management system for Food Bank Guadalajara, reducing manual tracking time by 50%
-- Implemented computer vision to identify items through device cameras and automatically catalog them
-- Transitioned to serverless architecture, reducing operational costs by 30%
-- Created an integrated barcode detection system for rapid inventory processing
-
 ### [BakeryPOS](https://github.com/your-link) - Smart Point-of-Sale System
 **Technologies:** JavaScript, Firebase, IndexedDB, Python, Thermal Printing
 
@@ -95,6 +83,18 @@ me.say_hello()
 - Implemented an autonomous drone that performs aerial patrols and detects suspicious activities using computer vision
 - Created an integrated security system where fixed cameras and personnel collaborate in real-time to respond to detected threats
 - Engineered by Team Warlocks at Tecnológico de Monterrey
+
+### [SupplyStream](https://github.com/Aaron3312/SupplyStreamR) - AI-Powered Inventory Management
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/master/22.jpg" alt="SupplyStream Screenshot" width="200">
+</div>
+
+**Technologies:** React Native, Firebase, TensorFlow Lite, Machine Learning
+
+- Developed an AI-powered inventory management system for Food Bank Guadalajara, reducing manual tracking time by 50%
+- Implemented computer vision to identify items through device cameras and automatically catalog them
+- Transitioned to serverless architecture, reducing operational costs by 30%
+- Created an integrated barcode detection system for rapid inventory processing
 
 ## 🛠️ Technical Skills
 
