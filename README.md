@@ -1,6 +1,8 @@
 # Aaron Hernández Jiménez
 <!-- Header Banner - you can replace this with a custom banner image -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/IMG_20230214_210450.jpg" alt="Software Engineer | Full Stack Developer | Cloud Enthusiast" width="800">
+  
   ## Software Engineer | Full Stack Developer | Cloud Solutions
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaron3312)
@@ -31,7 +33,7 @@ me.say_hello()
 
 ### [SupplyStream](https://github.com/your-link) - AI-Powered Inventory Management
 <div align="center">
-  <img src="https://i.imgur.com/your-project-image.png" alt="SupplyStream Screenshot" width="600" style="display: none;">
+  <img src="https://github.com/Aaron3312/SupplyStreamR/Screenshot_2024-09-18-21-16-44-370_host.exp.exponent.jpg" alt="SupplyStream Screenshot" width="600" style="display: none;">
 </div>
 
 **Technologies:** React Native, Firebase, TensorFlow Lite, Machine Learning
