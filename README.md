@@ -1,29 +1,31 @@
 # Aaron Hernández Jiménez
-<!-- Header Banner - you can replace this with a custom banner image -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/IMG_20230214_210450.jpg" alt="Software Engineer | Full Stack Developer | Cloud Enthusiast" width="200">
-  
-  ## Software Engineer | Full Stack Developer | Cloud Solutions
-  
+  <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/IMG_20230214_210450.jpg" alt="Aaron Hernández Jiménez" width="200" style="border-radius: 50%; border: 3px solid #3178C6;" />
+
+  <h2>💻 Software Engineer | Full Stack Developer | Cloud Solutions Architect</h2>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaron3312)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaron3312)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a01642529@tec.mx)
+  [![Phone](https://img.shields.io/badge/Phone-27AE60?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5233227-55227)
 </div>
 
 ## 👨‍💻 About Me
 
-Computer Science student at Tecnológico de Monterrey with practical experience building full-stack applications, cloud solutions, and AI-powered systems. I'm passionate about creating technology that solves real-world problems and enhances user experiences.
+> **Computer Science student at Tecnológico de Monterrey** with expertise in building scalable full-stack applications, cloud-native solutions, and AI-powered systems. Passionate about leveraging technology to solve real-world problems and create exceptional user experiences.
 
 ```python
 class AaronHernandez:
     def __init__(self):
+        self.name = "Aaron Hernández Jiménez"
         self.education = "B.S. Computer Science @ Tecnológico de Monterrey (2022-2026)"
-        self.interests = ["Full-Stack Development", "Cloud Computing", "AI Integration", "DevOps"]
+        self.interests = ["Full-Stack Development", "Cloud Architecture", "AI/ML Integration", "DevOps"]
         self.currently_learning = "Advanced Cloud Architecture & MLOps"
         self.looking_to_collaborate_on = "Open-source projects with social impact"
     
     def say_hello(self):
-        print("Thanks for visiting my GitHub! Let's build something amazing together.")
+        print("Thanks for visiting my profile! Let's build something amazing together.")
 
 me = AaronHernandez()
 me.say_hello()
@@ -31,7 +33,7 @@ me.say_hello()
 
 ## 🚀 Featured Projects
 
-### [BakeryPOS](https://github.com/your-link) - Smart Point-of-Sale System
+### 🍞 BakeryPOS - Smart Point-of-Sale System
 **Technologies:** JavaScript, Firebase, IndexedDB, Python, Thermal Printing
 
 <div align="center">
@@ -40,37 +42,45 @@ me.say_hello()
   <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/posPc3.png" alt="BakeryPOS Screenshot 3" width="280">
 </div>
 
-- Built a comprehensive point-of-sale system with offline functionality via IndexedDB (99.9% uptime)
-- Engineered a real-time order management system using Firebase, reducing processing time by 65%
-- Implemented Python-based thermal printer integration for automatic receipt generation
+- ✅ Built a comprehensive point-of-sale system with offline functionality via IndexedDB (99.9% uptime)
+- ✅ Engineered a real-time order management system using Firebase, reducing processing time by 65%
+- ✅ Implemented Python-based thermal printer integration for automatic receipt generation
 
-### [Cuevana by Aaron](https://aaron3312.github.io/web2/) - Modern Movie & Series Platform
+---
+
+### 🎬 Cuevana by Aaron - Modern Movie & Series Platform
 **Technologies:** React.js, Vite, TMDB API, CSS/SCSS, Cypress, GitHub Actions
 
 <div align="center">
   <img src="https://github.com/Aaron3312/web2/blob/master/image.png" alt="Cuevana Platform Screenshot" width="800">
 </div>
 
-- Developed a comprehensive movie and series exploration platform with data from The Movie Database API
-- Implemented advanced search functionality and personalized recommendation systems
-- Created a responsive interface with detailed views for titles including synopsis, cast, and trailers
-- Built an integrated rating and review system for enhanced user engagement
-- Configured CI/CD pipeline with GitHub Actions for automated testing and deployment
+- ✅ Developed a comprehensive movie and series exploration platform with data from The Movie Database API
+- ✅ Implemented advanced search functionality and personalized recommendation systems
+- ✅ Created a responsive interface with detailed views for titles including synopsis, cast, and trailers
+- ✅ Built an integrated rating and review system for enhanced user engagement
+- ✅ Configured CI/CD pipeline with GitHub Actions for automated testing and deployment
 
-### [Cronos Project](https://github.com/Aaron3312/CronosProyect1) - AI-Powered Project Management
+---
+
+### ⏱️ Cronos Project - AI-Powered Project Management
 **Technologies:** Node.js, Express, PostgreSQL, OpenAI API, Notion API, NGINX, GCP, AWS
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage1.png" alt="Cronos Project Screenshot 1" width="400">
   <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/CronosPage2.png" alt="Cronos Project Screenshot 2" width="400">
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Aaron3312/aaron3312/main/cronosPortaitHorizontal.png" alt="Cronos Project Horizontal View" width="800">
 </div>
 
-- Developed a platform that transforms project descriptions into actionable task lists using AI
-- Reduced project setup time by 60% across 5 teams with intelligent task organization
-- Created an interactive calendar interface that reduced missed deadlines by 30%
+- ✅ Developed a platform that transforms project descriptions into actionable task lists using AI
+- ✅ Reduced project setup time by 60% across 5 teams with intelligent task organization
+- ✅ Created an interactive calendar interface that reduced missed deadlines by 30%
 
-### [Warehouse MultiAgent System](https://github.com/your-link) - Autonomous Robotics Simulation
+---
+
+### 🤖 Warehouse MultiAgent System - Autonomous Robotics Simulation
 **Technologies:** Unity, Python, YOLOv5, UDP, NavMesh
 
 <div align="center">
@@ -79,11 +89,13 @@ me.say_hello()
   <img src="https://github.com/Aaron3312/ProyectoSkeletons/blob/main/images/Navmesh.png" alt="Navigation Mesh" width="280">
 </div>
 
-- Engineered a warehouse simulation with autonomous robots coordinating in complex environments
-- Implemented real-time computer vision using YOLOv5 with UDP streaming (40% faster than previous systems)
-- Designed intelligent navigation using NavMesh for dynamic obstacle avoidance and path optimization
+- ✅ Engineered a warehouse simulation with autonomous robots coordinating in complex environments
+- ✅ Implemented real-time computer vision using YOLOv5 with UDP streaming (40% faster than previous systems)
+- ✅ Designed intelligent navigation using NavMesh for dynamic obstacle avoidance and path optimization
 
-### [Security Multi-Agent System](https://github.com/Aaron3312/ProyectoDronUnity) - Prison Security Simulation
+---
+
+### 🚨 Security Multi-Agent System - Prison Security Simulation
 **Technologies:** Unity, Python, AI, Computer Vision, Autonomous Agents
 
 <div align="center">
@@ -92,22 +104,24 @@ me.say_hello()
   <img src="https://raw.githubusercontent.com/Aaron3312/ProyectoDronUnity/main/Images/SecurityGuard.png" alt="Security Personnel" width="280">
 </div>
 
-- Developed a multi-agent simulation system modeling interactions between autonomous drones, security cameras, and security personnel in a prison environment
-- Implemented an autonomous drone that performs aerial patrols and detects suspicious activities using computer vision
-- Created an integrated security system where fixed cameras and personnel collaborate in real-time to respond to detected threats
-- Engineered by Team Warlocks at Tecnológico de Monterrey
+- ✅ Developed a multi-agent simulation system modeling interactions between autonomous drones, security cameras, and security personnel
+- ✅ Implemented an autonomous drone that performs aerial patrols and detects suspicious activities using computer vision
+- ✅ Created an integrated security system where fixed cameras and personnel collaborate in real-time to respond to detected threats
+- ✅ Engineered by Team Warlocks at Tecnológico de Monterrey
 
-### [SupplyStream](https://github.com/Aaron3312/SupplyStreamR) - AI-Powered Inventory Management
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/master/22.jpg" alt="SupplyStream Screenshot" width="200">
-</div>
+---
 
+### 📦 SupplyStream - AI-Powered Inventory Management
 **Technologies:** React Native, Firebase, TensorFlow Lite, Machine Learning
 
-- Developed an AI-powered inventory management system for Food Bank Guadalajara, reducing manual tracking time by 50%
-- Implemented computer vision to identify items through device cameras and automatically catalog them
-- Transitioned to serverless architecture, reducing operational costs by 30%
-- Created an integrated barcode detection system for rapid inventory processing
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aaron3312/SupplyStreamR/master/22.jpg" alt="SupplyStream Screenshot" width="300">
+</div>
+
+- ✅ Developed an AI-powered inventory management system for Food Bank Guadalajara, reducing manual tracking time by 50%
+- ✅ Implemented computer vision to identify items through device cameras and automatically catalog them
+- ✅ Transitioned to serverless architecture, reducing operational costs by 30%
+- ✅ Created an integrated barcode detection system for rapid inventory processing
 
 ## 🛠️ Technical Skills
 
@@ -123,14 +137,12 @@ me.say_hello()
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
   
-  ### Frontend
+  ### Frontend Development
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   
   ### Backend & Databases
@@ -144,39 +156,51 @@ me.say_hello()
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ## 📚 Education
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" alt="Tecnológico de Monterrey" width="100">
+</div>
+
 **Tecnológico de Monterrey (ITESM)**  
-*B.S. in Computer Science* | August 2022 - June 2026 (Expected)
+*Bachelor of Science in Computer Science*  
+*August 2022 - June 2026 (Expected)*
 
 **Relevant Coursework:**
-- Full-Stack Web Development
-- Cloud Computing & Serverless Architecture
-- Advanced Algorithms & Data Structures
-- Cybersecurity Integration
-- Software Requirements & Engineering
-- CCNA 200-301 Networking
-- SQL & NoSQL Databases
-- Internet of Things (IoT)
-- Computer Vision & AI
-- DevOps & CI/CD Pipelines
+- 💻 Full-Stack Web Development
+- ☁️ Cloud Computing & Serverless Architecture
+- 🧮 Advanced Algorithms & Data Structures
+- 🔒 Cybersecurity Integration
+- 📊 Software Requirements & Engineering
+- 🌐 CCNA 200-301 Networking
+- 🗄️ SQL & NoSQL Databases
+- 📱 Internet of Things (IoT)
+- 👁️ Computer Vision & Artificial Intelligence
+- 🔄 DevOps & CI/CD Pipelines
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaron3312&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaron3312&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ## 📫 Connect With Me
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-- 📧 Email: [a01642529@tec.mx](mailto:a01642529@tec.mx)
-- 📱 Phone: (+52) 33227-55227
-- 💼 LinkedIn: [/Aaron3312](https://linkedin.com/in/Aaron3312)
-- 🐙 GitHub: [/aaron3312](https://github.com/aaron3312)
+<div align="center">
+  <p>I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!</p>
+  
+  [![Email](https://img.shields.io/badge/Email-a01642529@tec.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a01642529@tec.mx)
+  [![Phone](https://img.shields.io/badge/Phone-(+52)_33227--55227-27AE60?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5233227-55227)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-/Aaron3312-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aaron3312)
+  [![GitHub](https://img.shields.io/badge/GitHub-/aaron3312-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaron3312)
+</div>
 
 ---
 
